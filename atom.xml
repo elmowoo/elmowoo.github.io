@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elmowoo.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-09-17T11:13:38.982Z</updated>
+    <title>娱言不止</title>
+    <updated>2019-09-17T11:19:12.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elmowoo.github.io/"/>
     <link rel="self" href="https://elmowoo.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>影剧圈那些事儿</subtitle>
     <logo>https://elmowoo.github.io//images/avatar.png</logo>
     <icon>https://elmowoo.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 娱言不止</rights>
     <entry>
         <title type="html"><![CDATA[TEXT]]></title>
         <id>https://elmowoo.github.io//post/text</id>
